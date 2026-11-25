@@ -1,9 +1,9 @@
-# Hi there, I'm Letícia 👋
+# Hi there, I'm Letícia 
 
-### 📊 Data Analyst / Business Intelligence Specialist
-- 🔭 I’m currently working on building end-to-end data pipelines and interactive dashboards.
-- 💡 Passionate about turning raw data into actionable business insights and strategic decisions.
-- 🌱 Improving my skills in Advanced SQL, Cloud Data Warehousing, and Predictive Analytics.
+### Data Analyst / Business Intelligence Specialist
+-  I’m currently working on building end-to-end data pipelines and interactive dashboards.
+-  Passionate about turning raw data into actionable business insights and strategic decisions.
+-  Improving my skills in Advanced SQL, Cloud Data Warehousing, and Predictive Analytics.
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -15,6 +15,6 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-## 📫 Contact
+## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/letícia-alexandre/)
 [![Email](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:leticia.alexandre@outlook.pt)
