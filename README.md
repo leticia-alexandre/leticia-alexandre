@@ -1,6 +1,8 @@
 # Hi there, I'm Letícia 👋
 
+## 📫 Contacto
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/letícia-alexandre/)
+
 ### 📊 Data Analyst / Business Intelligence Specialist
 - 🔭 I’m currently working on building end-to-end data pipelines and interactive dashboards.
 - 💡 Passionate about turning raw data into actionable business insights and strategic decisions.
