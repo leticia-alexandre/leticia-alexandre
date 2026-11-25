@@ -1,6 +1,6 @@
 # Hi there, I'm Letícia 👋
 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/letícia-alexandre/)
 ### 📊 Data Analyst / Business Intelligence Specialist
 - 🔭 I’m currently working on building end-to-end data pipelines and interactive dashboards.
 - 💡 Passionate about turning raw data into actionable business insights and strategic decisions.
@@ -13,4 +13,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 
